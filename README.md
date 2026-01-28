@@ -1,5 +1,5 @@
 Steps to run the app:
-  Step 1: Open the project file digitalhealth_phannhathoanglinh.Rproj
+  Step 1: Open the project file DigitalHealth2025.Rproj
   Step 2: Run the file cleaning_data.R to create files linelist_raw and linelist
   Step 3: Run the file shiny.R to create the visualization dashboard
 The file tfr.CSV is datasets, andt the file tfr_corebook.CSV is the corebook of datasets.
